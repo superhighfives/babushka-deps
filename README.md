@@ -1,4 +1,4 @@
-babushka-deps
+Babushka deps
 =============
 
-My collection of personal babushka deps.
+My collection of personal [babushka](http://babushka.me/) deps.
